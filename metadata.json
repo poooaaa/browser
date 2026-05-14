@@ -1,0 +1,6 @@
+{
+  "name": "Brave Fast Search",
+  "description": "A web search engine wrapper utilizing the Brave API scraper",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
